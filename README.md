@@ -11,3 +11,9 @@ I'm making a new **README.md file**.
 ### Visual Studio Code
 
 Changing README file
+
+-----------------------------------------------------
+
+### GitHub
+
+Changing README file 2
