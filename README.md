@@ -1,4 +1,4 @@
-# changing this repository's purpose
+# changing this repository's purpose : repository for problem solving sources
 
 It was previously a test repository for me to practice connecting github and my local repository using visual studio code. 
 
